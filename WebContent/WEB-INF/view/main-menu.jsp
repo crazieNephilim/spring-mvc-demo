@@ -9,7 +9,7 @@
 	<link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/Resources/style/foundation.css">
 	<link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/Resources/style/style.css">
 	<link rel="icon" href="${pageContext.request.contextPath}/Resources/images/spring_logo.png">
-	<script src="https://kit.fontawesome.com/213ebe77b0.js" crossorigin="anonymous"></script>
+	<script src="https://kit.fontawesome.com/213ebe77b0.js"></script>
 	<title>Spring Demo</title>
 </head>
 <body>
